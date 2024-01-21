@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository.AzureTables", "Repository.AzureTables\Repository.AzureTables.csproj", "{1385F8E7-7D99-4FAC-86E2-34E3E5B7165A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository.AzureTables.Tests", "Repository.AzureTables.Tests\Repository.AzureTables.Tests.csproj", "{BDC5AE57-5F20-40BC-AA8E-D8D00F1206D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1385F8E7-7D99-4FAC-86E2-34E3E5B7165A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1385F8E7-7D99-4FAC-86E2-34E3E5B7165A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1385F8E7-7D99-4FAC-86E2-34E3E5B7165A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1385F8E7-7D99-4FAC-86E2-34E3E5B7165A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC5AE57-5F20-40BC-AA8E-D8D00F1206D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC5AE57-5F20-40BC-AA8E-D8D00F1206D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC5AE57-5F20-40BC-AA8E-D8D00F1206D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC5AE57-5F20-40BC-AA8E-D8D00F1206D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17FF3F3A-6E67-42AC-891A-F93058D7325F}
+	EndGlobalSection
+EndGlobal
